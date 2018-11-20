@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Fry",
+    "image": "https://vignette.wikia.nocookie.net/en.futurama/images/f/f2/PhilipJ.Fry.png"
+  },
+  {
+    "id": 2,
+    "name": "Leela",
+    "image": "https://vignette.wikia.nocookie.net/en.futurama/images/d/d4/Turanga_Leela.png"
+  },  {
+    "id": 3,
+    "name": "Bender",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Bender_Rodriguez.png/220px-Bender_Rodriguez.png"
+  },  {
+    "id": 4,
+    "name": "Professor Farnsworth",
+    "image": "https://vignette.wikia.nocookie.net/en.futurama/images/4/4e/Farnsworth.png"
+  },  {
+    "id": 5,
+    "name": "Hermes",
+    "image": "https://vignette.wikia.nocookie.net/en.futurama/images/0/0d/Hermes.png"
+  },  {
+    "id": 6,
+    "name": "Zoidberg",
+    "image": "https://vignette.wikia.nocookie.net/en.futurama/images/4/45/Dr._John_A._Zoidberg.png"
+  },  {
+    "id": 7,
+    "name": "Amy",
+    "image": "https://vignette.wikia.nocookie.net/en.futurama/images/9/94/AmyWong.png"
+  },  {
+    "id": 8,
+    "name": "Scruffy",
+    "image": "https://vignette.wikia.nocookie.net/en.futurama/images/1/10/Scruffy.png"
+  },  {
+    "id": 9,
+    "name": "Zapp",
+    "image": "https://vignette.wikia.nocookie.net/en.futurama/images/e/e9/Zapp_Brannigan.png"
+  },  {
+    "id": 10,
+    "name": "Kif",
+    "image": "https://vignette.wikia.nocookie.net/en.futurama/images/8/82/Lieutenant_Kif_Kroker.png"
+  },  {
+    "id": 11,
+    "name": "Nixon",
+    "image": "https://i.imgur.com/X8i9Me9.png"
+  },  {
+    "id": 12,
+    "name": "Seymour",
+    "image": "https://i.imgur.com/oXCbOsF.png"
+  }
+]
