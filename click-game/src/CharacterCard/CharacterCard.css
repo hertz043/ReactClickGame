@@ -1,7 +1,7 @@
 .card {
   border-radius: 2px;
-  height: 195px;
-  margin: 1rem;
+  height: 170px;
+  margin: 10px 16px 0px 16px;
   position: relative;
   width: 195px;
   box-shadow: 0 3px 6px #999, 0 3px 6px #999;
